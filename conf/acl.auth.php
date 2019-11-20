@@ -12,3 +12,5 @@
 admin:*	@ALL	0
 content:*	@player	8
 admin:*	@admin	1
+chapter2:*	@ALL	0
+chapter2:*	@admin	8

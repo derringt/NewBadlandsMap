@@ -1,0 +1,145 @@
+/* More "modern" page styles */
+#page {
+	width: auto;
+	margin: 0 5%;
+}
+
+#preface-wrapper{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+html body.layout-first-main #content-wrapper{
+	width: 75vw;		
+}
+
+html body.layout-first-main #header-wrapper{
+	    overflow: inherit !important;	
+}
+
+#sidebar-first {
+	width: 12.6vw
+	
+}
+
+div.rounded-block-top-right, div.rounded-block-bottom-right {
+	margin-left: 0;
+	
+}
+
+div.no > input[name="q"] {
+    float: left;
+    display: inline-block;
+    padding: 6px 12px;
+    font-size: 14px;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+}
+				
+div.no > button {
+	display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: none;
+}
+
+#qsearch__out.ajax_qsearch {
+	text-align: center;
+    padding-top: 5px;
+    left: -1px;	
+}
+
+#qsearch__out.ajax_qsearch ul {
+	border-top: 1px solid;
+    margin-top: 1em;
+    padding-top: 1em;
+}
+
+.displayNone {
+	display:none;	
+}
+
+.tableToggle{
+	color: #7cdfb6 !important;
+}
+
+body.layout-first-main #sidebar-first {
+    margin: 0 20px 0 0;
+    position: sticky;
+    width: 230px;
+    top: 15px;
+}
+
+button.blockButton {
+	display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: none;
+	background-color: #DFB77C;
+}
+
+button.blockButton.tableToggle {
+
+    background-color: #7cdfb6 !important;
+    color: black !important;
+}
+
+.block-wrapper.even:first-child {
+    display: none !important; /*This looks bad on mobile, and it does nothing, so just remove it from view.*/
+}
+
+
+/* Table Styles */
+
+td, th {
+    min-width: 80px; /*Sets a minimum so that headers and columns look appropriate with only one word in them. Might cause probs later (since the wiki doesnt give classes, and so cant style more precisely), but this looks good for now.*/
+	padding: 8px 8px !important; /*Replaces current padding with a more square set. Makes spacing inside the table look better.*/
+	border: none !important; /*Removes the border from cells.*/
+}
+
+td, th {
+    padding-left: 5px !important; /*Realigns the text.*/
+}
+tbody th {
+    border-bottom: unset; /*Removes the border from showing on the bottom of the table headers.*/
+}
+
+tr {
+    padding: 0.1em 0.6em;
+    border: 1px solid;
+    border-color: #DFB77C;
+	/*Sets up the nice borders we have on the table.*/
+}
+thead tr td, thead tr th { /*Sets colors for the table headers.*/
+    background-color: #DFB77C; /*The yellow-ish color.*/
+    color: black;
+    border-bottom: #DFB77C;
+}
+

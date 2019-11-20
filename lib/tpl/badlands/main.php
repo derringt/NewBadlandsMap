@@ -19,13 +19,16 @@ include('GtopiaHelper.php');
 		<link rel="shortcut icon" href="<?php echo DOKU_TPL?>images/favicon.ico" type="image/x-icon" />
 		<style type='text/css'>#cart-block-contents { display: none; }</style>
     	<link type="text/css" rel="stylesheet" media="all" href="style.css" />
+		<link type="text/css" rel="stylesheet" media="all" href="<?php echo DOKU_TPL?>BadlandsStyles.css?v=1.01" />
 	    <!--[if IE 7]>
 	      <link rel="stylesheet" href="acquia_slate/ie7-fixes.css" type="text/css">
 	    <![endif]-->
 	    <!--[if lte IE 6]>
 	      <link rel="stylesheet" href="acquia_slate/ie6-fixes.css" type="text/css">
 	    <![endif]-->
-	    <script type="text/javascript" src="gtopia.js"></script>
+	    <script type="text/javascript" src="gtopia.js"></script>		
+		<script type="text/javascript" src="<?php echo DOKU_TPL?>Badlands.js?v=1.01"></script>
+
 	</head>
 
   <body class="front layout-first-main">

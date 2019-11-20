@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://wiki.badlandsgame.net/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://wiki.badlandsgame.net/feed.php">
+        <title>The Badlands</title>
+        <description></description>
+        <link>https://wiki.badlandsgame.net/</link>
+        <image rdf:resource="https://wiki.badlandsgame.net/lib/tpl/badlands/images/favicon.ico" />
+       <dc:date>2019-11-19T13:49:39+0000</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://wiki.badlandsgame.net/doku.php?id=official:the_badlands_and_new_hope&amp;rev=1574035625&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.badlandsgame.net/doku.php?id=backgrounds_and_languages&amp;rev=1573651817&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.badlandsgame.net/doku.php?id=character_creation_checklist&amp;rev=1573613911&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.badlandsgame.net/doku.php?id=start&amp;rev=1573433717&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.badlandsgame.net/doku.php?id=warlocks_in_the_badlands&amp;rev=1573432884&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.badlandsgame.net/doku.php?id=classes_and_subclasses&amp;rev=1573431739&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://wiki.badlandsgame.net/lib/tpl/badlands/images/favicon.ico">
+        <title>The Badlands</title>
+        <link>https://wiki.badlandsgame.net/</link>
+        <url>https://wiki.badlandsgame.net/lib/tpl/badlands/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://wiki.badlandsgame.net/doku.php?id=official:the_badlands_and_new_hope&amp;rev=1574035625&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-11-18T00:07:05+0000</dc:date>
+        <dc:creator>wtd (wtd@undisclosed.example.com)</dc:creator>
+        <title>Why are we in the Badlands? - created</title>
+        <link>https://wiki.badlandsgame.net/doku.php?id=official:the_badlands_and_new_hope&amp;rev=1574035625&amp;do=diff</link>
+        <description>Why are we in the Badlands?
+
+Three generations ago the kingdom of Alt Walav to the east and Thorria to the west were great and prosperous. The Demon Queen and her magical destroyer helm ended all of that. The ancient titan Vorgoth used her as a puppet to spread a plague across the most populated parts of each kingdom. This plague transformed many of the sentient folk into ravenous demonic plague carriers. Their bite further spread the plague. The lands were ravaged. Heroes of the realm defeated …</description>
+    </item>
+    <item rdf:about="https://wiki.badlandsgame.net/doku.php?id=backgrounds_and_languages&amp;rev=1573651817&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-11-13T13:30:17+0000</dc:date>
+        <dc:creator>thedarkstar (thedarkstar@undisclosed.example.com)</dc:creator>
+        <title>Backgrounds - [Backgrounds] </title>
+        <link>https://wiki.badlandsgame.net/doku.php?id=backgrounds_and_languages&amp;rev=1573651817&amp;do=diff</link>
+        <description>Backgrounds
+
+
+
+
+Before You Select A Background Please Take A Look At The Homebrew For This Campaign.
+
+We have a deep homebrewed crafting system. In the base game some backgrounds get a crafting type skill, such as a tool or kit proficiency. In our game we have changed that so every background gets one, and only one kit or tool proficiency (and the actual tool / kit piece of equipment) at the start. You may select whichever tool or kit you like when selecting your background.</description>
+    </item>
+    <item rdf:about="https://wiki.badlandsgame.net/doku.php?id=character_creation_checklist&amp;rev=1573613911&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-11-13T02:58:31+0000</dc:date>
+        <dc:creator>thedarkstar (thedarkstar@undisclosed.example.com)</dc:creator>
+        <title>CHARACTER CREATION - CHECKLIST - [Choice One: Pick A Race] </title>
+        <link>https://wiki.badlandsgame.net/doku.php?id=character_creation_checklist&amp;rev=1573613911&amp;do=diff</link>
+        <description>CHARACTER CREATION - CHECKLIST
+
+The Mechanics Of Character Creation
+
+We follow the guidance of the Players Hand Book pretty closely when creating characters. Here is a checklist of those steps and how to find the changes we have made to the races, classes, etc, for this game setting.</description>
+    </item>
+    <item rdf:about="https://wiki.badlandsgame.net/doku.php?id=start&amp;rev=1573433717&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-11-11T00:55:17+0000</dc:date>
+        <dc:creator>ncguthwulf (ncguthwulf@undisclosed.example.com)</dc:creator>
+        <title>The Badlands - [Downtime Days And Crafting] </title>
+        <link>https://wiki.badlandsgame.net/doku.php?id=start&amp;rev=1573433717&amp;do=diff</link>
+        <description>The Badlands
+
+The Age of Kingdoms has come to an end. 30 years ago a demonic plague ravaged the lands. You are the descendants of the survivors that fled into the badlands. These lands were previously ignored by the civilized folk due to the savage inhabitants, numerous monsters and poor soil quality.</description>
+    </item>
+    <item rdf:about="https://wiki.badlandsgame.net/doku.php?id=warlocks_in_the_badlands&amp;rev=1573432884&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-11-11T00:41:24+0000</dc:date>
+        <dc:creator>ncguthwulf (ncguthwulf@undisclosed.example.com)</dc:creator>
+        <title>warlocks_in_the_badlands</title>
+        <link>https://wiki.badlandsgame.net/doku.php?id=warlocks_in_the_badlands&amp;rev=1573432884&amp;do=diff</link>
+        <description>Badlands Warlock
+
+Changes to Rules as Written
+
+1) Warlocks that multi class in any way lose the Hexblade subclass ability: Hex Warrior entirely. 
+2) Eldritch Smite and Divine Smite may not be used on the same attack.
+
+The Pacts
+We wish to define certain aspects of the pact more thoroughly for the Badlands campaign setting.</description>
+    </item>
+    <item rdf:about="https://wiki.badlandsgame.net/doku.php?id=classes_and_subclasses&amp;rev=1573431739&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-11-11T00:22:19+0000</dc:date>
+        <dc:creator>ncguthwulf (ncguthwulf@undisclosed.example.com)</dc:creator>
+        <title>Classes and Sublcasses - [Barbarian] </title>
+        <link>https://wiki.badlandsgame.net/doku.php?id=classes_and_subclasses&amp;rev=1573431739&amp;do=diff</link>
+        <description>Classes and Sublcasses
+
+Barbarian
+
+Path Of The Ancestral Guardian
+Path Of The Totem Warrior
+Path Of The Berserker
+Path Of The Zealot
+Path Of The Storm Herald
+Battlerager (Open To All Races)
+
+Bard
+
+College Of Glamour
+College Of Swords
+College Of Lore
+College Of Valor
+College Of Whispers</description>
+    </item>
+</rdf:RDF>

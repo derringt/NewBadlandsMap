@@ -1,20 +1,24 @@
-1570901723	192.0.157.77	E	dungeon_point_system_basics	ncguthwulf	[Spending Dungeon Points] 		-2
-1570901754	192.0.157.77	E	dungeon_point_system_basics	ncguthwulf	[Spending Dungeon Points] 		6
-1570901888	192.0.157.77	E	dungeon_point_system_basics	ncguthwulf	[Dungeon Point System] 		-120
-1570903643	24.155.229.166	E	dungeon_point_system_basics	wtd	[Dungeon Point System] 		2
-1570906745	192.0.157.77	E	start	ncguthwulf			71
-1571074103	192.0.157.77	E	start	ncguthwulf	[Character Creation & Advancement] 		47
-1571074329	192.0.157.77	C	backgrounds_and_languages	ncguthwulf	created		223
-1571074618	192.0.157.77	E	backgrounds_and_languages	ncguthwulf			-42
-1571074690	192.0.157.77	E	backgrounds_and_languages	ncguthwulf			6
-1571074714	192.0.157.77	E	backgrounds_and_languages	ncguthwulf			-6
-1571074727	192.0.157.77	E	backgrounds_and_languages	ncguthwulf			1
-1571074796	192.0.157.77	E	backgrounds_and_languages	ncguthwulf			6
-1571074818	192.0.157.77	E	backgrounds_and_languages	ncguthwulf			4
-1571074843	192.0.157.77	E	backgrounds_and_languages	ncguthwulf			0
-1571075969	192.0.157.77	E	dungeon_point_system_basics	ncguthwulf	[Spending Dungeon Points] 		57
-1571076013	192.0.157.77	E	dungeon_point_system_basics	ncguthwulf	[Dungeon Point System] 		59
-1571077148	192.0.157.77	E	backgrounds_and_languages	ncguthwulf			-1
-1571077168	192.0.157.77	E	backgrounds_and_languages	ncguthwulf			2
-1571077397	107.77.226.168	E	backgrounds_and_languages	daelmir			-7
-1571077663	107.77.226.168	E	backgrounds_and_languages	daelmir			22
+1573432645	24.137.220.61	E	character_creation_checklist	ncguthwulf	[Choice Four: Personality And Background] 		2
+1573432789	24.137.220.61	E	start	ncguthwulf	[Downtime Days And Crafting] 		-4
+1573432884	24.137.220.61	E	warlocks_in_the_badlands	ncguthwulf			0
+1573433423	24.137.220.61	E	start	ncguthwulf			195
+1573433717	24.137.220.61	E	start	ncguthwulf	[Downtime Days And Crafting] 		101
+1573434401	24.137.220.61	E	backgrounds_and_languages	ncguthwulf	[Backgrounds] 		143
+1573434474	24.137.220.61	E	backgrounds_and_languages	ncguthwulf	[Backgrounds] 		194
+1573585559	207.179.74.130	E	backgrounds_and_languages	thedarkstar			3886
+1573585598	207.179.74.130	E	backgrounds_and_languages	thedarkstar	[Language Descriptions] 		-4
+1573586161	192.0.157.77	E	backgrounds_and_languages	ncguthwulf			113
+1573586311	192.0.157.77	E	backgrounds_and_languages	ncguthwulf			11
+1573587163	192.0.157.77	E	backgrounds_and_languages	ncguthwulf	[Languages] 		28
+1573610802	99.88.189.117	e	start	thedarkstar	[Dungeon Master Resrouces] 		0
+1573613911	99.88.189.117	E	character_creation_checklist	thedarkstar	[Choice One: Pick A Race] 		2
+1573614798	99.88.189.117	E	backgrounds_and_languages	thedarkstar	[Language Descriptions] 		0
+1573614810	99.88.189.117	E	backgrounds_and_languages	thedarkstar	[Understanding Our  Homebrew Languages] 		0
+1573614823	99.88.189.117	E	backgrounds_and_languages	thedarkstar	[Equipment Tables] 		0
+1573614897	99.88.189.117	E	backgrounds_and_languages	thedarkstar	[Backgrounds] 		0
+1573651817	207.179.74.130	E	backgrounds_and_languages	thedarkstar	[Backgrounds] 		4686
+1574035625	89.187.164.75	C	official:the_badlands_and_new_hope	wtd	created		2920
+1574177118	107.77.223.181	C	chapter2	daelmir	created		10
+1574215166	72.68.107.119	D	official:immortals	daelmir	removed		-65
+1574215200	72.68.107.119	D	chapter2	daelmir	removed		-10
+1574215211	72.68.107.119	C	chapter2:test	daelmir	created		4
